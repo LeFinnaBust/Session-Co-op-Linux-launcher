@@ -1,6 +1,5 @@
 # Session-Co-op-Linux-launcher
-A simple linux wrapper for emojuice's windows multiplayer mod for session skate sim. 
-# Session Co-op Linux Launcher
+A simple linux wrapper for emojuice's windows multiplayer mod for session skate sim.
 
 A native Linux / Steam Deck launcher that installs and runs the **Session Co-op** multiplayer mod for *Session: Skate Sim* under Proton.
 
