@@ -1,4 +1,5 @@
 # Session-Co-op-Linux Launcher
+A.I assisted. 
 
 A native Linux / Steam Deck launcher that installs and runs the **Session Co-op** multiplayer mod for *Session: Skate Sim* under Proton.
 
