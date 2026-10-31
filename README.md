@@ -15,7 +15,7 @@ setup so the mod runs the same as it does on Windows.
 WIP: 
 - local Split-Screen
 
--Mod manager integration
+- Mod manager integration
 
 
 ## Requirements
