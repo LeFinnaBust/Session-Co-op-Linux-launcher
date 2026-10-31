@@ -11,6 +11,10 @@ setup so the mod runs the same as it does on Windows.
 - Works with the Steam version, or any other copy (Epic, GOG, etc.) by picking your game folder. No Heroic, Lutris or Bottles needed.
 - One-click install, setup checklist, and a connection test.
 - No extra dependencies. Runs on the Python that ships with SteamOS.
+WIP: 
+-Split-Screen Co-op
+-Mod manager integration
+
 
 ## Requirements
 
