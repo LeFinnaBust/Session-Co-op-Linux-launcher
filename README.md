@@ -14,6 +14,7 @@ setup so the mod runs the same as it does on Windows.
 
 WIP: 
 -Split-Screen Co-op
+
 -Mod manager integration
 
 
