@@ -13,7 +13,7 @@ setup so the mod runs the same as it does on Windows.
 - No extra dependencies. Runs on the Python that ships with SteamOS.
 
 WIP: 
--Split-Screen Co-op
+- local Split-Screen
 
 -Mod manager integration
 
