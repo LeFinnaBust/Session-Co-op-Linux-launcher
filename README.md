@@ -31,4 +31,4 @@ the [Session Co-op Discord](https://discord.gg/Fb5haGntd) and place it in the sa
 
 ---
 
-*Unofficial community project. Not affiliated with the developers of Session or the Session Co-op mod.* A.I assisted. 
+*Unofficial community project. Not affiliated with the developers of Session* A.I assisted. 
