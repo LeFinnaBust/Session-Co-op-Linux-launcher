@@ -1,5 +1,6 @@
 
-
+<details>
+<summary>🎵 Play the remix</summary>
 93 till infinity(intrumental)-Souls of Mischief
 🎵 Press play, unmute, enjoy.
 
