@@ -13,7 +13,7 @@ setup so the mod runs the same as it does on Windows.
 - One-click install, setup checklist, and a connection test.
 - No extra dependencies. Runs on the Python that ships with SteamOS.
 
-WIP: 
+Work in progress: 
 - local Split-Screen<img width="1920" height="1080" alt="wipsplitscreen" src="https://github.com/user-attachments/assets/a43275de-2e41-49f6-bb85-03cfeaf62712" />
 
 
