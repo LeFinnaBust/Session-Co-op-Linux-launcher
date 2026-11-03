@@ -1,7 +1,7 @@
 
 
-93 till infinity-Souls of Mischief
-<summary>🎵 Play the remix</summary>
+93 till infinity(intrumental)-Souls of Mischief
+🎵 Press play, unmute, enjoy.
 
 https://github.com/user-attachments/assets/8f604436-9ee4-41a5-966a-2cff6e7c8131
 
