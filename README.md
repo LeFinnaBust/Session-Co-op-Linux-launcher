@@ -2,12 +2,12 @@
 
 A native Linux / Steam Deck launcher that installs and runs the **Session Co-op** multiplayer mod for *Session: Skate Sim* under Proton.
 
-The mod is built for Windows and doesn't work under Proton out of the box. 
+The Co-op mod is built for Windows and doesn't work under Proton out of the box. 
 This launcher handles the Linux-specific 
 setup so the mod runs the same as it does on Windows.
 
 ## Features
-
+- Fully integrated mod manager within the launcher https://github.com/rodriada000/SessionModManagerCore
 - Works with the Steam version, or any other copy (Epic, GOG, etc.) by picking your game folder. No Heroic, Lutris or Bottles needed.
 - One-click install, setup checklist, and a connection test.
 - No extra dependencies. Runs on the Python that ships with SteamOS.
