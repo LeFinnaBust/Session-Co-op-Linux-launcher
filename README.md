@@ -1,5 +1,6 @@
 # 
-<img width="2135" height="737" alt="Glossy Session Co-op-Linux Launcher Logo" src="https://github.com/user-attachments/assets/09b4165a-0f6c-433c-9343-cb679ab90bea" />
+<img width="2135" height="270" alt="Glossy Session Co-op-Linux Launcher Logo" src="https://github.com/user-attachments/assets/9c0d3114-a914-4563-a610-5e6dc0c238a6" />
+
 
 
  <img width="1920" height="1080" alt="Screenshot_20261102_232939" src="https://github.com/user-attachments/assets/a50c87b8-b29a-43ee-b63d-2affe7877e67" />
