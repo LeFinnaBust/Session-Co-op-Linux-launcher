@@ -33,7 +33,7 @@ the [Session Co-op Discord](https://discord.gg/Fb5haGntd) and place it in the sa
 ## Usage
 
 1. Install Session and launch it once.
-2. Put the AppImage and the mod zip in the same folder, and make the AppImage executable.
+2. Put the AppImage and the mod zip in the same folder, doesn't have to be your session folder. Double click make the AppImage executable. or chmod+x 
 3. Open the AppImage, press **Install / Repair**, then **Play**.
 
 ---
