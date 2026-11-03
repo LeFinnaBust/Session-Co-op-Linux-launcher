@@ -13,8 +13,7 @@ This launcher handles the Linux-specific
 setup so the mod runs the same as it does on Windows.
 
 ## Features
-- Fully integrated mod manager within the launcher https://github.com/rodriada000/SessionModManagerCore<img width="1920" height="1080" alt="Screenshot_20261102_041820" src="https://github.com/user-attachments/assets/571d6027-9401-45ec-ac05-87a56feb224c" />
-
+- One click install mod manager within the linux co-op launcher https://github.com/rodriada000/SessionModManagerCore. <img width="1920" height="1080" alt="Screenshot_20261102_041820" src="https://github.com/user-attachments/assets/571d6027-9401-45ec-ac05-87a56feb224c" />
 - Works with the Steam version, or any other copy (Epic, GOG, etc.) by picking your game folder. No Heroic, Lutris or Bottles needed.
 - One-click install, setup checklist, and a connection test.
 - No extra dependencies. Runs on the Python that ships with SteamOS.
