@@ -1,4 +1,5 @@
-# <img width="2172" height="724" alt="Session Co-op-Linux Launcher Logo" src="https://github.com/user-attachments/assets/dec81a9c-5159-4b44-9299-0368e11d825e" />
+# 
+<img width="2179" height="722" alt="Session Co-op-Linux Launcher Logo" src="https://github.com/user-attachments/assets/9fe377ae-f377-40ae-a685-51a456d3abeb" />
 
  <img width="1920" height="1080" alt="Screenshot_20261102_232939" src="https://github.com/user-attachments/assets/a50c87b8-b29a-43ee-b63d-2affe7877e67" />
 
