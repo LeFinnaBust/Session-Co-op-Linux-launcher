@@ -1,5 +1,5 @@
 # 
-<img width="1200" height="265" alt="session-co-op-linux-launcher-logo-transparent" src="https://github.com/user-attachments/assets/ce62a67f-0b8b-4842-a894-1f41acaee7c3" />
+<img width="2135" height="737" alt="Glossy Session Co-op-Linux Launcher Logo" src="https://github.com/user-attachments/assets/09b4165a-0f6c-433c-9343-cb679ab90bea" />
 
 
  <img width="1920" height="1080" alt="Screenshot_20261102_232939" src="https://github.com/user-attachments/assets/a50c87b8-b29a-43ee-b63d-2affe7877e67" />
