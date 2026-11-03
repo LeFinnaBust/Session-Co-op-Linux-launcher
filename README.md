@@ -1,12 +1,12 @@
 # 
 <img width="2135" height="270" alt="Glossy Session Co-op-Linux Launcher Logo" src="https://github.com/user-attachments/assets/9c0d3114-a914-4563-a610-5e6dc0c238a6" />
 
-
+A native Linux / Steam Deck launcher that installs and runs the **Session Co-op** multiplayer mod for *Session: Skate Sim* under Proton.
 
  <img width="1920" height="1080" alt="Screenshot_20261102_232939" src="https://github.com/user-attachments/assets/a50c87b8-b29a-43ee-b63d-2affe7877e67" />
 
 
-A native Linux / Steam Deck launcher that installs and runs the **Session Co-op** multiplayer mod for *Session: Skate Sim* under Proton.
+
 
 The Co-op mod is built for Windows and doesn't work under Proton out of the box. 
 This launcher handles the Linux-specific 
